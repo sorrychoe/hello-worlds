@@ -45,7 +45,7 @@ fmt.println("Hello, World!")
 ### Rust
 
 ```rust
-println!("Hello, World!")
+println!("Hello, World!");
 ```
 
 ### Ruby
@@ -75,5 +75,5 @@ println("Hello, World")
 ### Matlab
 
 ```matlab
-disp("Hello, World!")
+disp("Hello, World!");
 ```
