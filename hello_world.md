@@ -75,5 +75,5 @@ println("Hello, World")
 ### Matlab
 
 ```matlab
-disp("Hello, World!");
+fprintf("Hello, World!");
 ```
